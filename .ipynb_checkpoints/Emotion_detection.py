@@ -12,7 +12,7 @@ classifier = load_model(r'C:\Users\BUSIREDDY ADITI\Desktop\EmotionDetection\.ipy
 emotion_labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 'Sad', 'Surprise']
 
 
-image_path = r'C:\Users\BUSIREDDY ADITI\Desktop\EmotionDetection\.ipynb_checkpoints\images\e.jpeg'
+image_path = r"C:\Users\BUSIREDDY ADITI\Desktop\EmotionDetection\.ipynb_checkpoints\images\mix2.jpeg"
 
 img = cv2.imread(image_path)
 
